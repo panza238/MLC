@@ -1,0 +1,20 @@
+IDEAS:
+
+- Ver granulariad de categorías de MeLi (category_id). Si es lo suficientemente fino, se puede hacer un análisis comparativo entre ventas de artículos con y sin descuento. YES
+
+- Me parece que encarar por el lado del análisis de con desuento vs sin descuento va a andar bien. 
+
+- "Estas categorías son las que mayor cantidad de publicaciones con descuento ofrecen. Pero son las que mayores descuentos ofrecen?"
+Ver relación entre precio original y precio de venta con descuento.
+
+	1) Analizar promedio de descuento global (promedio y std error)
+	2) Promedio de descuento dentro de la categoría. (promedio y media, mediana, moda, std err)
+	3) Promedio de precios dentro de la categoría. (promedio y media, mediana, moda, std err)
+DONE
+
+¿Afectan los descuentos a la venta de los items?
+- Relacionar descuentos y cantidad de items vendidos:
+	- Comparar ventas en items con descuentos y sin descuentos
+	- A mayor descuento más venta?
+	- A mayor cantidad de publicaciones con descuento más venta?
+	
