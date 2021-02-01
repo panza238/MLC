@@ -17,4 +17,6 @@ DONE
 	- Comparar ventas en items con descuentos y sin descuentos
 	- A mayor descuento más venta?
 	- A mayor cantidad de publicaciones con descuento más venta?
-	
+
+DONE
+
